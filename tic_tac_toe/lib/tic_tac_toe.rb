@@ -1,4 +1,5 @@
 require "tic_tac_toe/version"
+require_relative "../lib/tic_tac_toe/core_extensions.rb"
 
 module TicTacToe
   # Your code goes here...
