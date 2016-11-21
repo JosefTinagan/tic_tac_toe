@@ -1,4 +1,5 @@
 require "spec_helper"
+require_relative "../lib/tic_tac_toe/core_extensions.rb"
 
 describe Array do 
 	context "#all_empty?" do
